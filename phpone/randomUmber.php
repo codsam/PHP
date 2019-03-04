@@ -4,7 +4,7 @@
 // 使用rgb()形成的颜色设置
 // 数值是0-255之间的数字，使用php程序随机生成字体颜色
 /*
-// <?php echo mt_rand();?>
+<?php echo mt_rand();?>
 */
 ?>
 <!DOCTYPE html>

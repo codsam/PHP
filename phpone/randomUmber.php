@@ -14,7 +14,7 @@
 	<title></title>
 </head>
 <body>
-	<span style="color:rgb(<?php echo mt_rand(0,255);?>,<?php echo mt_rand(0,255);?>,<?php echo mt_rand(0,255);?>);">深</span>
-	<span style="color:rgb(<?php echo mt_rand(0,255);?>,<?php echo mt_rand(0,255);?>,<?php echo mt_rand(0,255);?>);">圳</span>
+	<span style="color:rgb(<?php echo mt_rand(0,255);?>,<?php echo mt_rand(0,255);?>,<?php echo mt_rand(0,255);?>);">123</span>
+	<span style="color:rgb(<?php echo mt_rand(0,255);?>,<?php echo mt_rand(0,255);?>,<?php echo mt_rand(0,255);?>);">321</span>
 </body>
 </html>
